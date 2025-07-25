@@ -1,1 +1,1 @@
-# MercadoPagoSuperOfertas100
+# MercadoPagoOfertasDescuentos
